@@ -10,7 +10,7 @@ Infrared and visible image fusion aims to generate fused images with rich textur
 
 ## Pipeline
 
-![pipleline](pic\pipeline.png)
+![pipleline](pic//pipeline.png)
 
 
 
