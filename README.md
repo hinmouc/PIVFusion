@@ -25,7 +25,7 @@ python train.py
 
 **1. Pretrained models**
 
-Pretrained models are available in [checkpoint]().
+Pretrained models are available in [checkpoint](https://drive.google.com/drive/folders/1m9_X3R2tbBIvFs6iEZv52k6dMoMfusNj?usp=sharing).
 
 **2. Test cases**
 
