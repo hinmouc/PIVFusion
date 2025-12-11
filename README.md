@@ -1,5 +1,5 @@
 # PIVFusion
-Codes for ***Perceptual Transform Fusion of Infrared and Visible Images*** (Coming Soon).
+Codes for ***Perceptual Transform Fusion of Infrared and Visible Images***.
 
 [Dingli Hua](), [Qingmao Chen](https://hinmouc.github.io), [Zhiliang Wu](), [Yifan Zuo](), [ Wenying Wen](), [Yuming Fang]().
 
