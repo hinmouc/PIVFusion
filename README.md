@@ -21,8 +21,26 @@ Modify the variable 'dataset' on  ``train.py``, and run
 python train.py
 ```
 
+### 🧪 Test
+
+**1. Pretrained models**
+
+Pretrained models are available in [checkpoint]().
+
+**2. Test cases**
+
+The 'test_cases' folder contains seven examples that appear in the main paper. Running 
+
+```
+python test.py
+```
+
+will fuse these cases, and the fusion results will be saved in the ``./test_result`` folder.
+
+
 
 ## 📝Citation
+
 If this work is helpful to you, please cite it as:
 ```
 @ARTICLE{2025pivfusion,
